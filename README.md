@@ -1,2 +1,2 @@
-# cromo3.0
-aula de ia
+# Cromo 3.0
+Aula de Ia.
